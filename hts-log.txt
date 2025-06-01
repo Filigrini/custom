@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 01 Jun 2025 13:15:14 at https://customgarage.rent/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://customgarage.rent/ -O1 "C:\My Web Sites\custom" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:15:14	Warning: 	HTML file (618 bytes) retransferred due to lack of cache: https://customgarage.rent/
+13:15:25	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://customgarage.rent/)
+13:15:25	Error: 	"Not Found" (404) at link https://customgarage.rent/a (from https://connect.facebook.net/en_US/fbevents.js)
+13:15:25	Error: 	"Not Found" (404) at link https://customgarage.rent/post (from https://connect.facebook.net/en_US/fbevents.js)
+13:15:25	Error: 	"Not Found" (404) at link https://customgarage.rent/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+13:15:25	Error: 	"Not Found" (404) at link https://customgarage.rent/b.resolvedlink (from https://connect.facebook.net/en_US/fbevents.js)
+13:15:25	Error: 	"Not Found" (404) at link https://customgarage.rent/d (from https://connect.facebook.net/en_US/fbevents.js)
+13:15:25	Error: 	"Not Found" (404) at link https://customgarage.rent/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+13:15:25	Error: 	"Not Found" (404) at link https://customgarage.rent/c.dl (from https://connect.facebook.net/en_US/fbevents.js)
+13:15:25	Error: 	"Not Found" (404) at link https://customgarage.rent/c.rl (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 seconds : 23 links scanned, 13 files written (1581036 bytes overall), 14 files updated [996531 bytes received at 90593 bytes/sec], 954138 bytes transferred using HTTP compression in 6 files, ratio 33%, 2.0 requests per connection
+(9 errors, 1 warnings, 0 messages)

@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+customgarage.rent	TRUE	/	FALSE	1999999999	lang	en
+customgarage.rent	TRUE	/	FALSE	1999999999	SameSite	Strict
+
